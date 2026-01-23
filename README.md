@@ -5,11 +5,7 @@ Python • Machine Learning • Data Analytics & Visualization
 
 ## What I do
 - Build data-driven solutions using Python and ML
-- Work on healthcare/clinical analytics & risk prediction
 - Create clean notebooks, reproducible pipelines, and clear visualizations
-
-## Featured Projects
-- 📌 **health-center-analysis** — Healthcare data exploration & insights (Python)
 
 ## Skills
 - **Python:** Pandas, NumPy, Matplotlib, Scikit-learn
@@ -22,7 +18,6 @@ Python • Machine Learning • Data Analytics & Visualization
 
 ## Education & Certifications
 - **BSc Data Science & AI** — Mutah University (2022 – 2026)
-- **CITI: Human Research (Data/Specimens)** (Issued Jul 2025)
 
 ## Contact
 - LinkedIn: linkedin.com/in/ghayda-n-jaafreh
