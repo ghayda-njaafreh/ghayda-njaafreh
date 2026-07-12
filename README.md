@@ -61,4 +61,4 @@ Healthcare AI demonstration connected with NAO robot interaction and web-based A
 
 ## Connect With Me
 
-[LinkedIn](https://linkedin.com/in/ghayda-n-jaafreh) • [Kaggle](https://www.kaggle.com/jaafreh) 
+[LinkedIn](https://linkedin.com/in/ghayda-njaafreh) • [Kaggle](https://www.kaggle.com/jaafreh) 
