@@ -1,6 +1,6 @@
 # Hi, I'm Ghayda N. Ja'afreh
 
-**Data Science & Artificial Intelligence Graduate | Junior Data Scientist | Python • Machine Learning • Computer Vision • Data Analytics**
+**AI Engineer & Data Scientist | Python · ML · Computer Vision · Backend Systems · Applied AI**
 
 I am a Data Science and Artificial Intelligence graduate from Mutah University with a strong interest in building practical, explainable, and data-driven AI solutions.  
 My work focuses on machine learning, healthcare AI, computer vision, image processing, authentication systems, and interactive data applications.
