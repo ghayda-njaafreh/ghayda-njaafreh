@@ -31,8 +31,8 @@ My work focuses on machine learning, healthcare AI, computer vision, image proce
 
 ## Featured Projects
 
-### StrokeLens — Secure, Explainable Stroke Risk Prediction System
-Graduation project focused on multi-scenario stroke risk prediction, explainable AI outputs, secure reporting, and healthcare decision-support workflows.
+### StrokeLens — Healthcare AI Graduation Project
+Secure and explainable AI graduation project focused on data-driven clinical decision support using structured healthcare data.
 
 ### Imaging Filters Lab
 Interactive digital image processing application using OpenCV and Gradio, covering spatial filtering, frequency-domain analysis, morphology, wavelets, denoising, and edge detection.
